@@ -1,0 +1,25 @@
+body {
+        background-color: lightgrey;
+}
+
+
+nav {
+        background-color: white
+}
+
+col {
+        background-color: white;
+}
+
+
+div {
+        border-color: rgb(211, 17, 17);
+        border: 1px;
+        border-style: solid;}
+
+
+li {
+        padding: 10px;
+}
+
+
